@@ -3,9 +3,9 @@
 
 According to the [National Bullying Prevention Center](https://www.pacer.org/bullying/resources/stats.asp), "one out of every five (20.2%) students report being bullied." That equates to about 66.2 million students being bullied just in the U.S.
 
-### Markdown
+### What is Bullying?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bullying is defined in the <cite>Oxford Dictionary</cite> as "Seek to harm, intimidate, or coerce (someone perceived as vulnerable)."
 
 ```markdown
 Syntax highlighted code block
