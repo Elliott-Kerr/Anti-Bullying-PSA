@@ -1,7 +1,7 @@
 ## This is an Anti-Bullying PSA
 <h5>Stop the bullying, it's not cool.</h5>
 
-[According to the National Bullying Prevention Center](https://www.pacer.org/bullying/resources/stats.asp), "one out of every five (20.2%) students report being bullied." That equates to about 66.2 million students being bullied just in the U.S.
+According to the [National Bullying Prevention Center](https://www.pacer.org/bullying/resources/stats.asp), "one out of every five (20.2%) students report being bullied." That equates to about 66.2 million students being bullied just in the U.S.
 
 ### Markdown
 
