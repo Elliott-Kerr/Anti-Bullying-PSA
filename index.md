@@ -2,7 +2,6 @@
 <h5>Stop the bullying, it's not cool.</h5>
 
 <a href="https://www.pacer.org/bullying/resources/stats.asp>According to the National Bullying Prevention Center</a>, "one out of every five (20.2%) students report being bullied." That equates to about 66.2 million students being bullied just in the U.S.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
