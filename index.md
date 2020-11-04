@@ -12,8 +12,7 @@ Bullying is defined in the Merriam-Webster Dictionary as, "Abuse and mistreatmen
   * Repeated and aggressive acts
   * Against someone with less power
   
-This definition helps determine whether an incident is bullying or other type of aggressive behavior, such as one-time physical fights, online arguments, or incidents between adults.
- *Note: Some bullying actions can fall into criminal categories, such as harassment, hazing, or assault.*
+This definition helps determine whether an incident is bullying or other type of aggressive behavior, such as one-time physical fights, online arguments, or incidents between adults. *Note: Some bullying actions can fall into criminal categories, such as harassment, hazing, or assault.*
 
 
 
