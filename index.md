@@ -33,8 +33,6 @@ Now ask yourself... "What would you do?"
  {% include youtubePlayer.html id=PKDyXb3SpGY %} This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.
  </div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 #### To Learn About Protection Against Discrimination, [Click Here](https://www.ftc.gov/site-information/no-fear-act/protections-against-discrimination)
 
 #### It's Your Choice
