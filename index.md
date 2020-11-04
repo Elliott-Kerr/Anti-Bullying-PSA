@@ -23,10 +23,10 @@ There are three roles that can be played in a situtaution where bullying is taki
 3. Bystander - A person who witnesses an event or act without participating in it.
 
 More general categories are:
-<pre>
- Reinforcers: These people are not directly involved in the bullying behavior but they give the bullying an audience. They will often laugh or provide support for the people who are engaging in bullying. This may encourage the bullying to continue. <br/>
- Outsiders: These people remain separate from the bullying situation. They neither reinforce the bullying behavior nor defend the person being bullied. Some may watch what is going on but do not provide feedback about the situation to show they are on anyone’s side. Even so, providing an audience may encourage the bullying behavior.
-</pre>
+
+@nbsp;Reinforcers: These people are not directly involved in the bullying behavior but they give the bullying an audience. They will often laugh or provide support for the people who are engaging in bullying. This may encourage the bullying to continue. <br/>
+@nbsp;Outsiders: These people remain separate from the bullying situation. They neither reinforce the bullying behavior nor defend the person being bullied. Some may watch what is going on but do not provide feedback about the situation to show they are on anyone’s side. Even so, providing an audience may encourage the bullying behavior.
+
 Now ask yourself... "What would you do?"
 
 ```markdown
