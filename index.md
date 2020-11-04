@@ -30,9 +30,7 @@ More general categories are:
 
 Now ask yourself... "What would you do?"
 
-```markdown
 {% include youtubePlayer.html id=PKDyXb3SpGY %}
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
