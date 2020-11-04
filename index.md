@@ -31,7 +31,7 @@ More general categories are:
 Now ask yourself... "What would you do?"
 
 ```markdown
-<video src="https://www.youtube.com/watch?v=PKDyXb3SpGY" width="320" height="200" controls preload></video>
+{% include youtubePlayer.html id=page.youtubeId %}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
