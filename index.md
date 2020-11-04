@@ -5,7 +5,14 @@ According to the [National Bullying Prevention Center](https://www.pacer.org/bul
 
 ### What is Bullying?
 
-Bullying is defined in the <cite>Oxford Dictionary</cite> as "Seek to harm, intimidate, or coerce (someone perceived as vulnerable)."
+Bullying is defined in the Merriam-Webster Dictionary as, "Abuse and mistreatment of someone vulnerable by someone stronger, more powerful, etc. : the actions and behavior of a bully." However, there are generally four core components that can be used to define bullying:
+<ul>
+  <li>Unprovoked actions or threats</li>
+  <li>Motivated by an intent to cause fear distress or harm</li?
+  <li>Repeated and aggressive acts</li> 
+  <li>Against someone with less power</li>
+</ul>
+
 
 ```markdown
 Syntax highlighted code block
