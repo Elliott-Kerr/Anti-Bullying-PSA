@@ -14,7 +14,20 @@ Bullying is defined in the Merriam-Webster Dictionary as, "Abuse and mistreatmen
   
 This definition helps determine whether an incident is bullying or other type of aggressive behavior, such as one-time physical fights, online arguments, or incidents between adults. *Note: Some bullying actions can fall into criminal categories, such as harassment, hazing, or assault.*
 
+### Identifying Roles in Bullying Situations
 
+There are three roles that can be played in a situtaution where bullying is taking place:
+
+1. Ally - A person who is on the victim's side and helps the victim in a situation.
+2. Bully- A person who threatens, intimidates, excludes or hurts someone with words or actions.
+3. Bystander - A person who witnesses an event or act without participating in it.
+
+More general categories are:
+
+Reinforcers: These people are not directly involved in the bullying behavior but they give the bullying an audience. They will often laugh or provide support for the people who are engaging in bullying. This may encourage the bullying to continue.
+Outsiders: These people remain separate from the bullying situation. They neither reinforce the bullying behavior nor defend the person being bullied. Some may watch what is going on but do not provide feedback about the situation to show they are on anyone’s side. Even so, providing an audience may encourage the bullying behavior.
+
+Now ask yourself... "What would you do?"
 
 ```markdown
 Syntax highlighted code block
