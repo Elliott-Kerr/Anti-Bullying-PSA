@@ -33,7 +33,7 @@ Now ask yourself... "What would you do?"
 Public Harrassment: https://www.youtube.com/watch?v=PKDyXb3SpGY
 ---
 ```markdown
-{% include youtubePlayer.html id=https://www.youtube.com/watch?v=PKDyXb3SpGY %}
+{% include youtubePlayer.html id=page.Public Harrassment %}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
