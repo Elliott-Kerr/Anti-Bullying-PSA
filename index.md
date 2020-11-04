@@ -1,5 +1,3 @@
-<!doctype html>
-<html>
 # This is an Anti-Bullying PSA
 <h5>Stop the bullying, it's not cool.</h5>
 
@@ -32,9 +30,7 @@ More general categories are:
 
 Now ask yourself... "What would you do?"
 <div>
- <style="margin: 3000px">This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.</style>
- 
-  {% include youtubePlayer.html id=PKDyXb3SpGY %} 
+ {% include youtubePlayer.html id=PKDyXb3SpGY %} This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.
  </div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
