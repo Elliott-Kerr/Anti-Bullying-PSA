@@ -1,5 +1,5 @@
 # This is an Anti-Bullying PSA
-<h5>Stop the bullying, it's not cool.</h5>
+<h4>Stop the bullying, it's not cool.</h4>
 
 According to the [National Bullying Prevention Center](https://www.pacer.org/bullying/resources/stats.asp), "one out of every five (20.2%) students report being bullied." That equates to about 66.2 million students being bullied just in the U.S.
 
@@ -37,6 +37,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 #### To Learn About Protection Against Discrimination, [Click Here](https://www.ftc.gov/site-information/no-fear-act/protections-against-discrimination)
 
-##### It's up to You
+#### It's Your Choice
 
 It's up to you to decide whether you'll be an ally, a bystander, or even the bully. Your decision can either have a negative effect on a person's life, or a positive one. In making that decision, realize that you will most likely set off a chain reaction of actions, people may follow in your foot steps. So, it is morally reccommended that you try to be a good influence and create a positive impact on those around you.
