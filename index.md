@@ -29,8 +29,9 @@ More general categories are:
 &nbsp;Outsiders: These people remain separate from the bullying situation. They neither reinforce the bullying behavior nor defend the person being bullied. Some may watch what is going on but do not provide feedback about the situation to show they are on anyone’s side. Even so, providing an audience may encourage the bullying behavior.
 
 Now ask yourself... "What would you do?"
-
-{% include youtubePlayer.html id=PKDyXb3SpGY %}&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <h1>This man faces discrimination simply because he's illterate. The bully in this situation is the cashier and the victim is the illiterate man. Try to identify the allies and bystanders.</h1>
+<div>
+{% include youtubePlayer.html id=PKDyXb3SpGY %}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.
+ </div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
