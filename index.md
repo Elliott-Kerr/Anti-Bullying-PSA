@@ -1,12 +1,9 @@
-<head>
- <link rel=“htmlfile.css” type=“text/css” href=“styles. css”> 
-</head>
-## This is an Anti-Bullying PSA
+###### This is an Anti-Bullying PSA
 <h5>Stop the bullying, it's not cool.</h5>
 
 According to the [National Bullying Prevention Center](https://www.pacer.org/bullying/resources/stats.asp), "one out of every five (20.2%) students report being bullied." That equates to about 66.2 million students being bullied just in the U.S.
 
-### What is Bullying?
+#### What is Bullying?
 
 Bullying is defined in the Merriam-Webster Dictionary as, "Abuse and mistreatment of someone vulnerable by someone stronger, more powerful, etc. : the actions and behavior of a bully." However, there are generally four core components that can be used to define bullying:
 
