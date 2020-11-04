@@ -1,3 +1,6 @@
+<head>
+ <link rel=“htmlfile.css” type=“text/css” href=“styles. css”> 
+</head>
 ## This is an Anti-Bullying PSA
 <h5>Stop the bullying, it's not cool.</h5>
 
@@ -30,7 +33,6 @@ More general categories are:
 
 Now ask yourself... "What would you do?"
 <div>
- <link rel=“htmlfile.css” type=“text/css” href=“styles. css”> 
  {% include youtubePlayer.html id=PKDyXb3SpGY %} <p>This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.</p>
  </div>
 
