@@ -30,7 +30,11 @@ More general categories are:
 
 Now ask yourself... "What would you do?"
 <div>
- {% include youtubePlayer.html id=PKDyXb3SpGY %} <p>This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.</p>
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.</p>
+ 
+ 
+ 
+ {% include youtubePlayer.html id=PKDyXb3SpGY %} 
  </div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
