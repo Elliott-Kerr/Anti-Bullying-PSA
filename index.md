@@ -31,7 +31,7 @@ More general categories are:
 Now ask yourself... "What would you do?"
 
 ```markdown
-{% include youtubePlayer.html id=page.youtubeId %}
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
