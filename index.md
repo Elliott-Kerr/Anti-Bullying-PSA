@@ -7,10 +7,10 @@ According to the [National Bullying Prevention Center](https://www.pacer.org/bul
 
 Bullying is defined in the Merriam-Webster Dictionary as, "Abuse and mistreatment of someone vulnerable by someone stronger, more powerful, etc. : the actions and behavior of a bully." However, there are generally four core components that can be used to define bullying:
 
-  *Unprovoked actions or threats
-  *Motivated by an intent to cause fear distress or harm
-  *Repeated and aggressive acts
-  *Against someone with less power
+  *Unprovoked actions or threats*
+  *Motivated by an intent to cause fear distress or harm*
+  *Repeated and aggressive acts*
+  *Against someone with less power*
 
 
 ```markdown
