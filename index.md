@@ -37,8 +37,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 #### To Learn About Protection Against Discrimination, [Click Here](https://www.ftc.gov/site-information/no-fear-act/protections-against-discrimination)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnwilkesboothabelincoln/Anti-Bullying-PSA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### It's up to You
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+It's up to you to decide whether you'll be an ally, a bystander, or even the bully. Your decision can either have a negative effect on a person's life, or a positive one. In making that decision, realize that you will most likely set off a chain reaction of actions, people may follow in your foot steps. So, it is morally reccommended that you try to be a good influence and create a positive impact on those around you.
