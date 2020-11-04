@@ -29,13 +29,10 @@ More general categories are:
 &nbsp;Outsiders: These people remain separate from the bullying situation. They neither reinforce the bullying behavior nor defend the person being bullied. Some may watch what is going on but do not provide feedback about the situation to show they are on anyone’s side. Even so, providing an audience may encourage the bullying behavior.
 
 Now ask yourself... "What would you do?"
----
-Public Harrassment: PKDyXb3SpGY
----
+
 ```markdown
-<div class="embed-container">
-  <iframe width="700" height="480" src="https://www.youtube.com/embed/lDi9uFcD7XI" frameborder="0" allowfullscreen=""></iframe>
-</div>
+[![IMAGE Public Harrassment](https://img.youtube.com/vi/PKDyXb3SpGY/0.jpg)](https://www.youtube.com/watch?v=PKDyXb3SpGY)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
