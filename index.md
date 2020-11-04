@@ -30,7 +30,7 @@ More general categories are:
 
 Now ask yourself... "What would you do?"
 <div>
- <style="text-align: right">This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.</style>
+ <style="margin: 3000px">This man faces discrimination simply because he's illterate. The bully in this situation is the cashier while the victim is the illiterate man. Try to identify the bystanders and allies.</style>
  
   {% include youtubePlayer.html id=PKDyXb3SpGY %} 
  </div>
