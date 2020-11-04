@@ -31,7 +31,9 @@ More general categories are:
 Now ask yourself... "What would you do?"
 
 ```markdown
-[![IMAGE Public Harrassment](https://img.youtube.com/vi/PKDyXb3SpGY/0.jpg)](https://www.youtube.com/watch?v=PKDyXb3SpGY)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=PKDyXb3SpGY
+" target="_blank"><img src="http://img.youtube.com/vi/PKDyXb3SpGY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ```
 
