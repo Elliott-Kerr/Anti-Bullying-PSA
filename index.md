@@ -35,7 +35,7 @@ Now ask yourself... "What would you do?"
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### To Learn About Protection Against Discrimination, [Click Here](https://www.ftc.gov/site-information/no-fear-act/protections-against-discrimination)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnwilkesboothabelincoln/Anti-Bullying-PSA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
