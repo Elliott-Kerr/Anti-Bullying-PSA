@@ -1,6 +1,3 @@
----
-youtubeId: putYourIDHere
----
 ## This is an Anti-Bullying PSA
 <h5>Stop the bullying, it's not cool.</h5>
 
@@ -32,9 +29,11 @@ More general categories are:
 &nbsp;Outsiders: These people remain separate from the bullying situation. They neither reinforce the bullying behavior nor defend the person being bullied. Some may watch what is going on but do not provide feedback about the situation to show they are on anyone’s side. Even so, providing an audience may encourage the bullying behavior.
 
 Now ask yourself... "What would you do?"
-
+---
+youtubeId: https://www.youtube.com/watch?v=PKDyXb3SpGY
+---
 ```markdown
-
+{% include youtubePlayer.html id=page.youtubeId %}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
