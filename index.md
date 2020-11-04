@@ -11,7 +11,6 @@ Bullying is defined in the Merriam-Webster Dictionary as, "Abuse and mistreatmen
   <li>Motivated by an intent to cause fear distress or harm</li?
   <li>Repeated and aggressive acts</li> 
   <li>Against someone with less power</li>
-</ul>
 
 
 ```markdown
