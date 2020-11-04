@@ -30,10 +30,12 @@ More general categories are:
 
 Now ask yourself... "What would you do?"
 ---
-Public Harrassment: https://www.youtube.com/watch?v=PKDyXb3SpGY
+Public Harrassment: PKDyXb3SpGY
 ---
 ```markdown
-{% include youtubePlayer.html id=page.Public Harrassment %}
+<div class="embed-container">
+  <iframe width="700" height="480" src="https://www.youtube.com/embed/lDi9uFcD7XI" frameborder="0" allowfullscreen=""></iframe>
+</div>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
