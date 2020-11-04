@@ -30,10 +30,10 @@ More general categories are:
 
 Now ask yourself... "What would you do?"
 ---
-youtubeId: https://www.youtube.com/watch?v=PKDyXb3SpGY
+Public Harrassment: https://www.youtube.com/watch?v=PKDyXb3SpGY
 ---
 ```markdown
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=https://www.youtube.com/watch?v=PKDyXb3SpGY %}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
