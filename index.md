@@ -31,10 +31,7 @@ More general categories are:
 Now ask yourself... "What would you do?"
 
 ```markdown
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=PKDyXb3SpGY
-" target="_blank"><img src="http://img.youtube.com/vi/PKDyXb3SpGY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+{% include youtubePlayer.html id=PKDyXb3SpGY %}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
